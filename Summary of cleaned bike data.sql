@@ -1,7 +1,7 @@
 Use [BikeSharing Compnay Data]
 SELECT * FROM dbo.Trips_2020_Q1
 --Creating new table joining two tables
-DROP TABLE IF EXISTS combined_trips
+
 SELECT 
 CAST(ride_id AS nvarchar(50)) AS ride_id,
 started_at,
@@ -31,8 +31,8 @@ WHEN usertype = 'Customer' THEN 'casual'
 END
 FROM dbo.Trips_2019_Q1
 
-SELECT COUNT(*) FROM combined_trips
 
+--Calculating day of the week
 SELECT ride_id,
 member_casual,
 started_at,
@@ -89,3 +89,4 @@ FROM cleaned_trips
 WHERE member_casual='casual'
 GROUP BY start_station_name
 ORDER BY number_of_rides DESC
+
