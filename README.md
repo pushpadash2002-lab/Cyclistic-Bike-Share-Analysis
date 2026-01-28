@@ -5,7 +5,7 @@ Design marketing strategies aimed at converting casual riders into annual member
 # Data Sources
 I used historical Cyclistic Trip Dataset "20109 Q1" AND "2020 Q1" provided by Motivate International Inc.
 # Documentation Of Cleaning and Analysis
-1.*SQL:*- Used for processing rows, joining tables, and calculating ride length.
+1.*SQL:*- Used for processing rows, joining tables, and calculating ride length.(https://github.com/pushpadash2002-lab/Cyclistic-Bike-Share-Analysis/blob/349764fb2d98823b8f4ff8569f8a84f0909c3b24/Summary%20of%20cleaned%20bike%20data.sql)
 2. *R:*- Used for creating visualization and the final executive report.
 ## Key Visualization
 ### ![Volume_Chart]
