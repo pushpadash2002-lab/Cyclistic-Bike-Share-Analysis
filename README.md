@@ -14,6 +14,9 @@ R:- Used for creating visualization and the final executive report.
 ### ![Duration_Chart]
 (https://github.com/pushpadash2002-lab/Cyclistic-Bike-Share-Analysis/blob/56431c0cd1db6f18ec0ab0e99e9f0726096588aa/Duration_Chart.png)
 *Insight: Casual riders stay on bike 2x more than members*
+### ![Station_Chart]
+(https://github.com/pushpadash2002-lab/Cyclistic-Bike-Share-Analysis/blob/ef020effd9a84244745b104cb1d13fd3c19f1a8b/Station_Chart.png)
+*Insight: Top 10 stations where we can create advertisement*
 
 
 
