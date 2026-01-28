@@ -10,5 +10,8 @@ R:- Used for creating visualization and the final executive report.
 ## Key Visualization
 Volume_Chart.png
 *Insight: Members peak during weekdays, casual riders peak on weekends.*
+Duration_Chart.png
+*Insight: Casual riders stay on bike 2x more than members*
+
 
 
