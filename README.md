@@ -17,6 +17,10 @@ R:- Used for creating visualization and the final executive report.
 ### ![Station_Chart]
 (https://github.com/pushpadash2002-lab/Cyclistic-Bike-Share-Analysis/blob/ef020effd9a84244745b104cb1d13fd3c19f1a8b/Station_Chart.png)
 *Insight: Top 10 stations where we can create advertisement*
+## Recommendations
+1. *Weekend Member Pass:* Target weekend casual riders.
+2. *"Long-Ride" memebership benefits:* Focus on casual riders for longer duration.
+3. *Location Targeted Ads:* Focus on Top 10 stations where casual riders start or end their trips.
 
 
 
