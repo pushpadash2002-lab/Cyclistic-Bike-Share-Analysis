@@ -9,7 +9,7 @@ I used historical Cyclistic Trip Dataset "2019 Q1" AND "2020 Q1" provided by Mot
 2. *R:* Used R to create visualization. (https://github.com/pushpadash2002-lab/Cyclistic-Bike-Share-Analysis/blob/3acc84a961d80f35c09230815bc5bcbdb09d66db/Cyclistic_analysis.R)
 ## Key Visualization
 ### ![Volume_Chart]
-(https://github.com/pushpadash2002-lab/Cyclistic-Bike-Share-Analysis/blob/0a1675f871623dbde36578960ae4122c196d594e/Volume_Chart.png)
+(https://github.com/pushpadash2002-lab/Cyclistic-Bike-Share-Analysis/blob/938da131aea0bc285c65125189a4c8c19ca70e43/Volume%20Chart.png)
 *Insight: Members peak during weekdays, casual riders peak on weekends.*
 ### ![Duration_Chart]
 (https://github.com/pushpadash2002-lab/Cyclistic-Bike-Share-Analysis/blob/56431c0cd1db6f18ec0ab0e99e9f0726096588aa/Duration_Chart.png)
