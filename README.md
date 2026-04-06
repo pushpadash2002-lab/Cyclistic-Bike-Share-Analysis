@@ -17,6 +17,9 @@ I used historical Cyclistic Trip Dataset "2019 Q1" AND "2020 Q1" provided by Mot
 ### ![Station_Chart]
 (https://github.com/pushpadash2002-lab/Cyclistic-Bike-Share-Analysis/blob/ef020effd9a84244745b104cb1d13fd3c19f1a8b/Station_Chart.png)
 *Insight: Top 10 stations where we can create advertisement*
+# Key Insights
+1. Casual riders ride more on weekends and annual members ride mostly on weekends.
+2. Casual riders stay on bike 2x more than annual members.
 ## Recommendations
 1. *Weekend Member Pass:* Target weekend casual riders.
 2. *"Long-Ride" memebership benefits:* Focus on casual riders for longer duration.
